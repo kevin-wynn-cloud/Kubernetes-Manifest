@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flaskdemo
-        image: kevinwynn/test:11
+        image: kevinwynn/test:12
         resources: {}
 ---
 apiVersion: v1
