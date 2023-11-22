@@ -1,1 +1,1 @@
-This is a supporting repo for the Kubernetes-with-Jenkins-GitOps-GitHub-Pipeline repo and lab found [here](https://github.com/kevin-wynn-cloud/Kubernetes-with-Jenkins-GitOps-GitHub-Pipeline).
+This repository provides support for the Kubernetes-with-Jenkins-GitOps-GitHub-Pipeline repository and lab, which can be found [here](https://github.com/kevin-wynn-cloud/Kubernetes-with-Jenkins-GitOps-GitHub-Pipeline).
